@@ -39,13 +39,13 @@ To get started with the project, you'll need to:
 If you have any questions, concerns, or would like to collaborate, feel free to reach out to us:
 
 - Project Lead: 
-Ezechinyere Henry
+Ezechinyere Henry, 
 Mamuzou Akpo
 
 - Collaborator: 
-Ezechinyere Henry
-Mamuzou Akpo
-Alo Mobisayo
+Ezechinyere Henry, 
+Mamuzou Akpo, 
+Alo Mobisayo, 
 Solomon
 
 Thank you for your interest in our Waste-to-Energy project. Together, we can drive positive change and create a more sustainable future through innovative solutions. Let's optimize the biofuel supply chain for a greener tomorrow!
